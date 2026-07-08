@@ -23,7 +23,7 @@ In quantitative analysis, evaluating companies solely on raw, absolute fundament
 
 The analyzer organizes equities into highly targeted tracking lists, evaluating them against specific benchmark indexes:
 
-| Sector | Benchmark ETF / Grouping | Key Tickers Evaluated |
+| Sector | Benchmark ETF / Grouping | Key Tickers Evaluated (non exhaustive) |
 | :--- | :--- | :--- |
 | **Technology** | `XLK` | Microsoft, Nvidia, Alphabet, AMD, Salesforce, Adobe |
 | **Financials** | `XLF` | JPMorgan Chase, Bank of America, Wells Fargo, Goldman Sachs |
